@@ -9,23 +9,23 @@
   justify-content: flex-start;
 }
 
-.big-car-photo > img{
+.big-card-photo > img{
   width: 100%;
   min-width: 400px;
   min-height: 200px;
   max-height: 200px;
 }
 
-.big-car-title > h1{
+.big-card-title > h1{
   font-size: 20px;
   margin-top: 15px;
 }
 
-.big-car-description{
+.big-card-description{
   margin-top: 20px;
 }
 
-.big-car-description > p > a{
+.big-card-description > p > a{
   font-size: 12px;
   color: gray;
 }
