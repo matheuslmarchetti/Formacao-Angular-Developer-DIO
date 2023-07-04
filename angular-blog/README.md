@@ -26,6 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Project Images
+
 ![alt text](https://raw.githubusercontent.com/matheuslmarchetti/Bootcamp-Potencia-Tech-Angular-Developer-Powered-by-iFood-DIO/main/angular-blog/src/assets/Screenshot%20from%202023-07-03%2021-58-43.png)
 
 ![alt text](https://raw.githubusercontent.com/matheuslmarchetti/Bootcamp-Potencia-Tech-Angular-Developer-Powered-by-iFood-DIO/main/angular-blog/src/assets/Screenshot%20from%202023-07-03%2021-58-50.png)
