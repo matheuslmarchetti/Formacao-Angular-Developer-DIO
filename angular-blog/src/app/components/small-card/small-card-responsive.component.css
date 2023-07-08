@@ -1,0 +1,30 @@
+@media screen and (max-width: 300px) {
+  .container-small-card{
+    width: 200px;
+    margin-bottom: 15px;
+  }
+
+  .container-small-card-content{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .small-card-photo > img{
+    width: 100%;
+    min-width: 180px;
+    min-height: 150px;
+    max-height: 150px;
+  }
+
+  .small-card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 8px;
+  }
+
+  .container-small-card-separator{
+    margin-top: 10px;
+  }
+}

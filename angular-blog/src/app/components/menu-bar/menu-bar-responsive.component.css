@@ -1,0 +1,22 @@
+@media screen and (max-width: 300px) {
+  .container-menu-bar{
+    max-width: 250px;
+  }
+  
+  .container-menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+  }
+  
+  .container-menu-bar > ul >li{
+    margin-right: 10px;
+    list-style: none;
+  }
+
+  .container-menu-bar > ul > li > a{
+    font-size: 0.8rem;    
+  }
+}
