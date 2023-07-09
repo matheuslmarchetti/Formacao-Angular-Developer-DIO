@@ -1,11 +1,33 @@
 @media screen and (max-width: 300px) {
   .container-articles{
-    margin-top: 30px;
-    display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     text-align: center;
     max-width: 280px;
+  }
+}
+
+@media screen and (min-width: 301px) and (max-width: 600px) {
+  .container-articles{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1000px) {
+  .container-articles{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1300px) {
+  .container-articles{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
   }
 }

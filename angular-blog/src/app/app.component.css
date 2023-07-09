@@ -3,9 +3,3 @@ header{
     display: flex;
     justify-content: center;
 }
-@media screen and (max-width: 450px) {
-    html{
-      max-width: 280px;
-      border: solid rgb(5, 211, 201) 1px;
-    }
-  }

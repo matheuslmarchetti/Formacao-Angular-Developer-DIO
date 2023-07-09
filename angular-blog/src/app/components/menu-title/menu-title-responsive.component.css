@@ -4,16 +4,24 @@
   }
 
   .container-menu-title > h1{
-    margin-top: 15px;
-    margin-bottom: 15px;
     font-size: 1rem;
-    display: flex;
-    justify-content: center;
   }
+}
 
-  .container-menu-title > hr{
-    margin-top: 20px;
-    margin-bottom: 5px;
-    width: 100%
+@media screen and (min-width: 301px) and (max-width: 600px) {
+  .container-menu-title > h1{
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1000px) {
+  .container-menu-title > h1{
+    font-size: 2rem;
+  }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1300px) {
+  .container-menu-title > h1{
+    font-size: 3rem;
   }
 }
