@@ -4,14 +4,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project Link
 <div>
-    <a href="https://matheuslmarchetti.github.io/Bootcamp-Potencia-Tech-Angular-Developer-Powered-by-iFood-DIO/angular-blog/dist/angular-blog/" target="_blank" rel="noopener noreferrer">Marchetti Blog</a>
+    <a href="https://matheuslmarchetti.github.io/Formacao-Angular-Developer-DIO/angular-blog/dist/angular-blog/" target="_blank" rel="noopener noreferrer">Marchetti Blog</a>
 </div>
 
 ## Project Images
 
-![alt text](https://raw.githubusercontent.com/matheuslmarchetti/Bootcamp-Potencia-Tech-Angular-Developer-Powered-by-iFood-DIO/main/angular-blog/src/assets/Screenshot%20from%202023-07-03%2021-58-43.png)
+![alt text](https://raw.githubusercontent.com/matheuslmarchetti/Formacao-Angular-Developer-DIO/main/angular-blog/dist/angular-blog/assets/Screenshot%20from%202023-07-03%2021-58-43.png)
 
-![alt text](https://raw.githubusercontent.com/matheuslmarchetti/Bootcamp-Potencia-Tech-Angular-Developer-Powered-by-iFood-DIO/main/angular-blog/src/assets/Screenshot%20from%202023-07-03%2021-58-50.png)
+![alt text](https://raw.githubusercontent.com/matheuslmarchetti/Formacao-Angular-Developer-DIO/main/angular-blog/dist/angular-blog/assets/Screenshot%20from%202023-07-03%2021-58-50.png)
 
 ## Development server
 
